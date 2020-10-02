@@ -1,0 +1,1 @@
+## Ajax Image Upload Codeigniter
